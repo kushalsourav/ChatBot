@@ -11,7 +11,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/kushalsourav/Chatbot.git
+   git clone https://github.com/kushalsourav/ChatBot.git
    cd backend
    ```
 
